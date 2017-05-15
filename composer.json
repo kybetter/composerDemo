@@ -1,0 +1,15 @@
+{
+    "name": "kybetter/composer-demo",
+    "description": "composer demo study",
+    "type": "project",
+    "require": {
+        "yiisoft/yii2": "^2.0.11.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhaoliang",
+            "email": "kybetter@163.com"
+        }
+    ]
+}
