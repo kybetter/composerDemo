@@ -1,6 +1,7 @@
 {
     "name": "kybetter/composer-demo",
     "description": "composer demo study",
+    "version": "1.0.0",
     "type": "project",
     "require": {
         "yiisoft/yii2": "^2.0.11.2"
